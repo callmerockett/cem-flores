@@ -6,3 +6,13 @@ Iremos catalogar projetos e grupos de estudo, estejam eles em andamento ou não.
 
 Além do fomento às novas ideias, um objetivo de longo prazo seria trazer alunos egressos da UFPA para contribuir com projetos em andamento na universidade.
 
+## Projetos em andamento
+
+- [Treinamento para OBI 2023](https://github.com/filrpe/treinamento-OBI-2023)
+
+
+## Projetos parados
+
+- [GEMP-UFPA](https://github.com/callmerockett/GEMP-UFPA): Grupo de Estudos para a Maratona de Programação da SBC - UFPA
+
+## Ideias de projetos
