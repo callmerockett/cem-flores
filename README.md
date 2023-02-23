@@ -8,7 +8,10 @@ Além do fomento às novas ideias, um objetivo de longo prazo seria trazer aluno
 
 ## Projetos em andamento
 
-- [Treinamento para OBI 2023](https://github.com/filrpe/treinamento-OBI-2023)
+- [Treinamento para OBI 2023](https://github.com/filrpe/treinamento-OBI-2023): Treinamento para Olimpíada Brasileira de Informática nas escolas públicas.
+- [Brainstorm Engenharia](https://www.brainstormjr.com.br/): Empresa júnior vinculada à engenharia da computação.
+- [Robotech](https://www.instagram.com/robotech_ufpa/): Grupo de robótica competitiva da UFPA.
+- [Uirapuru Aerodesign](https://uirapuruaerodesign.wixsite.com/uirapuru): Equipe de Aerodesign da Universidade Federal do Pará.
 
 
 ## Projetos parados
