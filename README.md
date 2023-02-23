@@ -1,6 +1,6 @@
 # Projeto ZERO: As Cem Flores da UFPA
 
-O objetivo deste projeto é incentivar a criação de outros projetos independentes dentro da UFPA que surgem a partir de iniciativa própria dos discentes, visando especificamente os discentes da FCT (por enquanto). 
+O objetivo deste projeto é incentivar a criação de outros projetos independentes dentro da UFPA que surgem a partir de iniciativa própria dos discentes, visando especificamente os discentes do Instituto de Tecnologia (ITEC). 
 
 Iremos catalogar projetos e grupos de estudo, estejam eles em andamento ou não. Ao expor ideias nessa lista outros alunos podem procurar as atividades que mais lhe chamarem atenção e participar, ou colocar suas próprias ideias para que outras pessoas com gostos parecidos se juntem.
 
