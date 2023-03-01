@@ -10,7 +10,6 @@ Além do fomento às novas ideias, um objetivo de longo prazo seria trazer aluno
 
 - [Treinamento para OBI 2023](https://github.com/filrpe/treinamento-OBI-2023): Treinamento para Olimpíada Brasileira de Informática nas escolas públicas.
 - [Brainstorm Engenharia](https://www.brainstormjr.com.br/): Empresa júnior vinculada à engenharia da computação.
-- [Robotech](https://www.instagram.com/robotech_ufpa/): Grupo de robótica competitiva da UFPA.
 - [Uirapuru Aerodesign](https://uirapuruaerodesign.wixsite.com/uirapuru): Equipe de Aerodesign da Universidade Federal do Pará.
 - [Iaçá](https://iacaroboticaufpa.github.io/iaca-site/): Grupo de robótica feminino.
 - [Equipe Cabanos](https://www.instagram.com/equipecabanos/): Equipe universitária de nautimodelismo da UFPA, participante do DUNA.
@@ -19,5 +18,7 @@ Além do fomento às novas ideias, um objetivo de longo prazo seria trazer aluno
 ## Projetos parados
 
 - [GEMP-UFPA](https://github.com/callmerockett/GEMP-UFPA): Grupo de Estudos para a Maratona de Programação da SBC - UFPA
+- [Robotech](https://www.instagram.com/robotech_ufpa/): Grupo de robótica competitiva da UFPA.
+
 
 ## Ideias de projetos
